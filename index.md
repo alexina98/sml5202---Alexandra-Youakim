@@ -20,9 +20,10 @@
 <p>
 
 <p> Afternoon to do list</p>
-<ol>
+<ul>
  <li> Tidy room and bathroom</li>
  <li> Walk the dog</li>
  <li> Go to the gym</li>
  <li> Check qmplus and work on the assisgnments</li>
+ </ul>
 
