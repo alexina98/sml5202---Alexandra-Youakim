@@ -27,3 +27,7 @@
  <li> Check qmplus and work on the assisgnments</li>
  </ul>
 
+<hr>
+
+<a href="page2.html">Vocabulary</a>
+<a href="https://www.france24.com/en/france/">French News 24</a>
