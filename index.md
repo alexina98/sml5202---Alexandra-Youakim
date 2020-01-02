@@ -1,5 +1,5 @@
- <h1>Welcome!</h1>
- <p>This website is about English language, culture and literature.</p>
+ <h1>Bonjour! Comment Ça va?</h1>
+ <p>This website is about learning French but in a FUN WAY.</p>
  
  <h2>Ode to Autumn</h2>
   <p>
@@ -30,4 +30,6 @@
 <hr>
 
 <a href="page2.html">Vocabulary</a>
-<a href="https://www.france24.com/en/france/">French News 24</a>
+<a href="page3.html">Grammar</a>
+<a href="page4.html">Exercises</a>
+<a href="https://www.mamalisa.com/?t=ec&c=22">Nursery Songs</a>
