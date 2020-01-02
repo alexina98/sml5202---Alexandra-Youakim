@@ -1,2 +1,2 @@
-<h1>Page 2</h1>
+<h1>Vocabulary</h1>
 <p lang="fr"> Bonjour, comment ça va?</p>
