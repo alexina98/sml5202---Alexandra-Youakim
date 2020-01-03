@@ -17,17 +17,8 @@ The French Flag is red, white and blue to represent the three ideals of the Fren
      <li>The names of different things and places</li> 
  </ul> 
 
+<img src="https://i.pinimg.com/originals/fb/da/e9/fbdae9b69972a14d910ff008e60e23cd.gif"> 
 
-<h2>Things to do later</h2> 
-<p>
-
-<p> Afternoon to do list</p>
-<ol>
- <li> Tidy room and bathroom</li>
- <li> Walk the dog</li>
- <li> Go to the gym</li>
- <li> Check qmplus and work on the assisgnments</li>
- </ol>
 
 <hr>
 
