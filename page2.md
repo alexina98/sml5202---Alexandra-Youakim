@@ -1,6 +1,6 @@
 <h1>Glorious Greetings</h1>
 
-<p> lang="fr"> Bonjour, comment ça va?   Salut!   Au Revoir!    A bientôt! </p>
+<p> Bonjour, comment ça va?   Salut!   Au Revoir!    A bientôt! </p>
 <p> There are so many different ways how to say HELLO & GOODBYE and today we are going to learn what they are! 
   
 
