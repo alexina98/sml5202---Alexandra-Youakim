@@ -2,6 +2,9 @@
  <p>This website is about learning French but in a FUN WAY 😁</p>
  <p> LETS GO 👍</P>
  
+ <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/640px-Flag_of_France.svg"> 
+ 
+ 
  <h2>Ode to Autumn</h2>
   <p>
  Season of mists and mellow fruitfulness<br>
