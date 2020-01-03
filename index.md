@@ -1,5 +1,5 @@
  <h1>Bonjour! Comment Ça va?</h1>
- <p>This website is about learning French but in a FUN WAY 😁/p>
+ <p>This website is about learning French but in a FUN WAY 😁</p>
  <p> LETS GO 👍</P>
  
  <h2>Ode to Autumn</h2>
