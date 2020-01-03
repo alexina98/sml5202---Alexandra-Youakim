@@ -16,6 +16,8 @@ The French Flag is red, white and blue to represent the three ideals of the Fren
      <li>The Verbs TO BE and TO HAVE</li> 
      <li>The names of different things and places</li> 
  </ul> 
+ 
+ <h2> WHAT DOES FRANCE LOOK LIKE? </hs>
 
 <img src="https://i.pinimg.com/originals/fb/da/e9/fbdae9b69972a14d910ff008e60e23cd.gif"> 
 
