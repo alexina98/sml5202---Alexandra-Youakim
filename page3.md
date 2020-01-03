@@ -1,3 +1,5 @@
-<h1>Neverending Numbers</h1>
+<h1>Never-ending Numbers</h1>
 
-<p> 
+<p> TIME FOR SOME NUMBER FUN!</p>
+
+<h2> LETS GET STARTED </h2>
