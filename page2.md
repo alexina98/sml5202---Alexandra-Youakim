@@ -17,3 +17,8 @@
 
 
 <iframe src="https://h5p.org/h5p/embed/689271" width="1090" height="426" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+<hr>
+
+ <img src="https://previews.123rf.com/images/dolgachov/dolgachov1701/dolgachov170102439/69511355-international-people-waving-hand-over-eiffel-tower.jpg"> 
