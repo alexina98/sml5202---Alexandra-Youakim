@@ -3,15 +3,13 @@
  <p> LETS GO 👍</P>
  
  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/640px-Flag_of_France.svg.png"> 
- 
- 
- <h2>Ode to Autumn</h2>
+
+ <h2> WHY THOSE COLOURS?</h2>
   <p>
- Season of mists and mellow fruitfulness<br>
- Close-bosomed friend of the maturing sun <br> 
+The French Flag is red, white and blue to represent the three ideals of the French Revolution - LIBERTÉ, EGALITÉ ET FRATERNITÉ!
  </p>
  <hr> 
- <p>How to make a cup of coffee</p>
+ <h2>WHAT ARE WE GOING TO LEARN TODAY?</h2>
  <ol>
      <li>Boil the water</li> 
      <li>Put 2 teaspoons of coffee in a mug</li> 
