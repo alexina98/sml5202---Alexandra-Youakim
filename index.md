@@ -10,24 +10,24 @@ The French Flag is red, white and blue to represent the three ideals of the Fren
  </p>
  <hr> 
  <h2>WHAT ARE WE GOING TO LEARN TODAY?</h2>
- <ol>
-     <li>Boil the water</li> 
-     <li>Put 2 teaspoons of coffee in a mug</li> 
-     <li>Pour water in mug and stir</li> 
-     <li>Add milk and sugar if needed</li> 
- </ol> 
+ <ul>
+     <li>How to say HELLO and GOODBYE!</li> 
+     <li>How to count to 100</li> 
+     <li>The Verbs TO BE and TO HAVE</li> 
+     <li>The names of different things and places</li> 
+ </ul> 
 
 
 <h2>Things to do later</h2> 
 <p>
 
 <p> Afternoon to do list</p>
-<ul>
+<ol>
  <li> Tidy room and bathroom</li>
  <li> Walk the dog</li>
  <li> Go to the gym</li>
  <li> Check qmplus and work on the assisgnments</li>
- </ul>
+ </ol>
 
 <hr>
 
