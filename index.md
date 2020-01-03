@@ -34,4 +34,5 @@
 <a href="page3.html">Numbers</a>
 <a href="page4.html">Grammar</a>
 <a href="page5.html">Vocabulary</a>
+<a href="page6.html">Music</a>
 <a href="https://www.mamalisa.com/?t=ec&c=22">Nursery Songs</a>
