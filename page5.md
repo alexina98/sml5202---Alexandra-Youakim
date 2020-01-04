@@ -1,6 +1,6 @@
 <h1>Very fun Vocabulary </h1>
 
-<p> There are so many words to learn in French but there is always a place to start </p>
+<p> There are so many words to learn in French but there is always a place to start! </p>
 
 <strong> You want to know what the food you're eating is called or what places near your house are? </strong>
 
