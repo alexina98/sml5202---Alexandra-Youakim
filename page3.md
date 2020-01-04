@@ -39,7 +39,6 @@
 
 <hr>
 
-<a href="index.md">Home</a>
 <a href="page2.html">Greetings</a>
 <a href="page4.html">Grammar</a>
 <a href="page5.html">Vocabulary</a>
