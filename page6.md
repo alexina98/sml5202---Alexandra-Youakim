@@ -13,3 +13,8 @@
 <a href="https://www.youtube.com/watch?v=Lpwf5N0rfVE">Days of the Week</a>
 
 <a href="https://www.youtube.com/watch?v=5xuZxGirWQI"> The Alphabet</a>
+
+
+
+
+<img src="https://cdn1.vectorstock.com/i/1000x1000/69/35/set-of-funny-cartoon-musical-instruments-for-kids-vector-1016935.jpg"> 
