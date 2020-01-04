@@ -26,7 +26,6 @@
 
 <hr>
 
-<a href="index.md">Home</a>
 <a href="page2.html">Greetings</a>
 <a href="page3.html">Numbers</a>
 <a href="page5.html">Vocabulary</a>
