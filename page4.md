@@ -8,7 +8,7 @@
 <h1> Être : To Be </h1> 
 
 <table> 
- <tr><th> </th><th> Present </th></tr>
+ <tr><th> </th><th> Present </th><th> Imparfait </th><th> Futur </th></tr>
  <tr><td> Je </td><td> suis </td></tr> 
  <tr><td> Tu </td><td> es </td></tr> 
  <tr><td> Il/Elle </td><td> est </td></tr> 
