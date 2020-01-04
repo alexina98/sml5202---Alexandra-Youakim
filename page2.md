@@ -22,3 +22,12 @@
 <hr>
 
  <img src="https://previews.123rf.com/images/dolgachov/dolgachov1701/dolgachov170102439/69511355-international-people-waving-hand-over-eiffel-tower.jpg"> 
+
+
+<hr>
+
+<a href="page2.html">Home</a>
+<a href="page3.html">Numbers</a>
+<a href="page4.html">Grammar</a>
+<a href="page5.html">Vocabulary</a>
+<a href="page6.html">Music</a>
