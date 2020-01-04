@@ -28,6 +28,6 @@
 
 <a href="page2.html">Home</a>
 <a href="page3.html">Greetings</a>
-<a href="page4.html">Number</a>
+<a href="page4.html">Numbers</a>
 <a href="page5.html">Vocabulary</a>
 <a href="page6.html">Music</a>
