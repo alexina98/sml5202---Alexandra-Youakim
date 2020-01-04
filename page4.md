@@ -2,7 +2,7 @@
 
 <p> No one likes learning verbs but to speak French, you need the basic verbs TO BE and TO HAVE! </p>
 
-<h2> MEMORISE THE VERB ENDINGS IN THE TABLES BELOW...3️⃣,2️⃣,1️⃣ - GO ‼ </h2>
+<h2> MEMORISE THE VERB ENDINGS IN THE TABLES BELOW AND TRY THE EXERCISE. READY...3️⃣,2️⃣,1️⃣ - GO ‼ </h2>
 
 
 <h1> Être : To Be </h1> 
@@ -32,8 +32,13 @@
 </table> 
 
 
- 
 
+
+<hr>
+
+<h2> Drag the word on the right into the correct gap. </h2>
+
+<iframe src="https://h5p.org/h5p/embed/689945" width="1090" height="874" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 
