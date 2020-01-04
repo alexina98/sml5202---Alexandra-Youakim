@@ -9,12 +9,12 @@
 
 <table> 
  <tr><th> </th><th> Present </th><th> Imparfait </th><th> Futur </th></tr>
- <tr><td> Je </td><td> suis </td></tr> 
- <tr><td> Tu </td><td> es </td></tr> 
- <tr><td> Il/Elle </td><td> est </td></tr> 
- <tr><td> Nous </td><td> Sommes </td></tr> 
- <tr><td> Vous </td><td> êtes </td></tr> 
- <tr><td> Ils/Elles </td><td> sont </td></tr> 
+ <tr><td> Je </td><td> suis </td><td> étais </td><td> serai </td></tr> 
+ <tr><td> Tu </td><td> es </td><td> étais </td><td> seras </td></tr> 
+ <tr><td> Il/Elle </td><td> est </td><td> était </td><td> sera </td></tr> 
+ <tr><td> Nous </td><td> Sommes </td><td> étions </td><td> serons </td></tr> 
+ <tr><td> Vous </td><td> êtes </td><td> étiez </td><td> serez </td></tr> 
+ <tr><td> Ils/Elles </td><td> sont </td><td> étaient </td><td> seront</td></tr> 
 </table> 
 
 
