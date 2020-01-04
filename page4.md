@@ -18,14 +18,21 @@
 </table> 
 
 
+<h1> Avoir : To Have </h1>
+
+
+<table> 
+ <tr><th> </th><th> Present </th></tr>
+ <tr><td> J' </td><td> ai </td></tr> 
+ <tr><td> Tu </td><td> as </td></tr> 
+ <tr><td> Il/Elle </td><td> a </td></tr> 
+ <tr><td> Nous </td><td> avonz </td></tr> 
+ <tr><td> Vous </td><td> avez </td></tr> 
+ <tr><td> Ils/Elles </td><td> ont </td></tr> 
+</table> 
 
 
  
-
-
-
-
-
 
 
 
