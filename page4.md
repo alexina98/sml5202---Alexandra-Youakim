@@ -2,7 +2,7 @@
 
 <p> No one likes learning verbs but to speak French, you need the basic verbs TO BE and TO HAVE! </p>
 
-<h2> MEMORISE THE VERB ENDINGS IN THE TABLE AND PICTURES BELOW...3,2,1 - GO ‼ </h2>
+<h2> MEMORISE THE VERB ENDINGS IN THE TABLES BELOW...3️⃣,2️⃣,1️⃣ - GO ‼ </h2>
 
 
 <h1> Être : To Be </h1> 
