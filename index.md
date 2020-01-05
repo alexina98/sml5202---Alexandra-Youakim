@@ -23,7 +23,7 @@ The French Flag is red, white and blue to represent the three ideals of the Fren
 
 
 
-<p> 181084651 </P 
+<p> 181084651 </p>
 <hr>
 
 <a href="page2.html">Greetings</a>
